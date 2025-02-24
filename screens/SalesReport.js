@@ -95,10 +95,10 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
-    marginTop: 8,
+    marginTop: 10,
   },
   dateText: {
-    fontSize: 16,
+    fontSize: 12,
   },
   messageContainer: {
     alignItems: "center",

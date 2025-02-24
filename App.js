@@ -7,8 +7,8 @@ const App = () => {
   return (
     <View style={{ flex: 1 }}>
       <StatusBar
-        barStyle="light-content"
-        backgroundColor="#2563eb"
+        barStyle="dark-content"
+        backgroundColor="red"
         translucent={false}
       />
 
